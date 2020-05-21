@@ -1,4 +1,4 @@
-# 1701QCA Final project journal: *Insert your name here*
+# 1701QCA Final project journal: *Cheuk Fai Mak*
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
@@ -78,14 +78,16 @@ This article summary the general idea of interactive design. From sofeware to ha
 Improve the user experience of the car 
 ### Design ideation ###
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+Warning alert to warn user to slow down their car, light change depending on the environment.
 
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+Warning alert if the car going too fast since a lot of people are not paying attendion or falling a sleep and they didn't know how fast they are going, this design is going to help warning the driver and slow them down. Eventhough most of the morden car has automatic headlight feature, some people would still forget to active the function. So I decided to design a new feature that not only the light will light up when it is dark but also have something to indicate that such as the LCD display on the micro bit. 
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](missingimage.png)
+![Image](flowchart.jpg)
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
@@ -95,6 +97,61 @@ This should have quite a lot of information! It will likely include most of the 
 Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+
+### Developing concept ###
+
+The first concept I want to put in the design is using the light sensor to achieve some action. I know there is some simliar excisting design out there but for this one I want to do more than automaticlly turn the light on and off I want the user have a choice, by add the button function I will let the user the choice the color of the light they intended to turn on.  
+
+![Image](lightsensor.jpg)
+
+The photo shown some basic concept of the model car and the LED and seosor location.
+
+https://youtu.be/TKhCr-dQMBY
+This video show how the light level seosor works and after understanding it I am putting it in my design. 
+
+### concept 2 ###
+
+The second concept I want to put into the design is use the acceleration sensor to warn the user they are going too fast. Most of the accident on road is cause by the unwareness of the driver. It doesn't matter if the car is safe in emergency, the best way to prevent it is avoid the getting into danger situation. I want to make a warning sound using the buzzer, when the sensor sensed that the acceleration is over a certain number the buzzer will make a warning sound. Also considering to add more function to the model car toward the ultimate design.
+
+![Image](buzzer.jpg)
+The photo shown the buzzer and battery park location on the model car.
+
+https://microbit-challenges.readthedocs.io/en/latest/tutorials/accelerometer.html
+
+This link shown how the acclerometer work and I am going to learn how to use it and put it in the design. 
+
+### Final design concept ###
+
+So the final concept is to join the first two idea together and design how to build the model car using some simple and recycling material. In the ultimate product, I would use the material to build a simple model car to represent the real car. The model car itself doesn't really matter. The most important thing is the function and interaction that can be use on it. 
+![Image](concept.jpg)
+
+This image shown the final concept of joinning the two inital idea together and the components I am going to use. And the location of each element. Also a list of upcoming feature I want to add to the final product. 
+
+### Physical experiment ###
+
+![Image](code2.jpg)
+
+This is the code for the second concpet, buzzer to make the warning sound
+
+![Image](lighton.jpg)
+
+This is the code for the first concept, display base on light level and allow user to select which color of light to turn.( no complete need improve)
+
+![Image](final2.jpg)
+
+This is the sketch for the simple model build, using some very basic material and it is a very rough model
+
+![Image](model3.jpg)
+
+This is the physical model I build 
+
+![Image](model2.jpg)
+
+This is another angel of the model
+
+![Image](model1.jpg)
+
+I am considering use something else for the wheels since it doesn't look like it is gonna work with the cardboard.
 
 ## Final code ##
 
