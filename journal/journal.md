@@ -153,13 +153,21 @@ This is another angel of the model
 
 I am considering use something else for the wheels since it doesn't look like it is gonna work with the cardboard.
 
+![Image](ledsetup.jpg)
+Now I am testing the automatic light set up 
+
+![Image](microbitsetup.jpg)
+Combining the LED and Buzzer set up together
+
+![Image](finalsetup
+
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-
+Up to this point, I already developed the final concept toward the ultimate design. However, I found the difficulty of building the physical product. In the aspects of the Double Diamond design methodology I already been through the discover and define stage, and I am now at the develop stage. And facing the stuggle moving toward the deliver stage, the outcome at this point is not satisfy. The code is partly working but it is still didn't work the way I want it to be. More testing and building is needed for the success of the final design. Think back to the reseach I have done earlier, I overcome the functional minimalism problem I always has, I break it into small part and try to join them together in the final product. It makes the design less messy and the function I put in is real need. After the final design is completed, it actually let me understand how much work and experiment need to be done before the final outcome.
 
 ## Reflection ##
 
