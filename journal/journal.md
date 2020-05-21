@@ -187,15 +187,8 @@ Up to this point, I already developed the final concept toward the ultimate desi
 
 ## Reflection ##
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
-
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
-
 In the research I found, I learnt some new design principles such as affordability and functional minimalism. It actually helped me to develop a better in this assignment. As before reading the external article, I was thinking the way I always am, but in the field of design, being open minded is always the best way to improve. And of course, the ability and skills to use the micro bit is also a great experience as I can use the micro bit to help me to build something creative and interesting in the future. It is like unlocked a new path to creation. Those related project gives me an ideas of how much I can learn just by watching others design. And combine some of the idea in those design actually 
-
-What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
 The parts that trying different code and testing different set up to see how it changes the micro bit work is something very new to me. Although I had experience in making web site and phone app, being able to see something thats intetact with real life is much more fun and motivated. 
 
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
 The project can have some interesting extension such as: Increase the value of the acceleration and put it on two different remote car and see which one accelerate faster. This project can also be used in helping some learner driver to learn how to drive. Maybe just added a new acceleration measurement on horizontal. If the learner drive turning the corner too fast and it will trigger the alert to remind them to maintain the right speed when turning the corner. 
